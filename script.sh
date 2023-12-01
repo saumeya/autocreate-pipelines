@@ -8,6 +8,10 @@ kubectl apply -f .
 
 tkn pipeline start say-things --showlog
 
+tkn pipeline start say-things-in-order --showlog
+
 tkn pipeline start say-things --showlog
 
 tkn pipeline start say-things-in-order --showlog
+
+tkn pipeline start say-things --showlog
